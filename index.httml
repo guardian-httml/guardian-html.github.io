@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rekomendasi Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-image: url('https://telegra.ph/file/e1d9878cba56dc80b08ec.jpg');
+            background-size: cover;
+            background-position: center;
+            padding: 20px;
+            color: #fff;
+        }
+        h1 {
+            font-size: 2.5em;
+            color: #fff;
+            margin-bottom: 20px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        }
+        a {
+            text-decoration: none;
+            color: #ffeb3b;
+            font-weight: bold;
+        }
+        .website-list {
+            margin: 20px auto;
+            padding: 20px;
+            background-color: rgba(0, 0, 0, 0.6);
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+            max-width: 600px;
+        }
+        .website-item {
+            margin-bottom: 15px;
+            font-size: 1.2em;
+        }
+        .footer {
+            margin-top: 30px;
+            font-size: 0.9em;
+            color: #ddd;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>🌐 REKOMENDASI WEBSITE BY Guardian 🌐</h1>
+
+    <div class="website-list">
+        <div class="website-item">
+            🤖 <strong>OpenAI</strong> - Untuk menjawab soal dengan kecerdasan buatan ( saran : untuk mencoba versi terbaru atau versi 4-go yang jawaban lebih akurat silahkan login terlebih dahulu !. <br>
+            <a href="https://chatgpt.com" target="_blank">Kunjungi OpenAI</a>
+        </div>
+
+        <div class="website-item">
+            🛸 <strong>Gemini</strong> - Mesin pencari dari Google dengan antarmuka modern. <br>
+            <a href="https://gemini.google.com" target="_blank">Kunjungi Gemini</a>
+        </div>
+
+        <div class="website-item">
+            💬 <strong>BingChat</strong> - Layanan chat berbasis AI dari Bing. <br>
+            <a href="https://Bingchat.com" target="_blank">Kunjungi BingChat</a>
+        </div>
+    </div>
+
+    <div class="footer">
+        Copyright Guardian ©2024/2025 <br>
+        Butuh bantuan atau mau ditanyakan? Hubungi CS: <a href="https://wa.me/+6282370247706" target="_blank">WhatsApp</a>
+    </div>
+
+</body>
+</html>
